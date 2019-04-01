@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document*/
+
+h1 {
+	text-align: center;
+	color:#0F0;
+}
+
+p {
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#F0F;
+	font-size: 18px;
+
+}
+
+body {
+	background-color: #FA2;
+}
+
